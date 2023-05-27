@@ -9,7 +9,9 @@ Before using this script, make sure you have the following:
 - Python 3 installed on your machine.
 - Required Python packages, which can be installed by running the following command:
 
-
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -17,13 +19,17 @@ Before using this script, make sure you have the following:
 
 2. Navigate to the project directory:
 
+```bash
 cd DTM
+```
 
 3. Run the Python script using the following command:
 
+```bash
 python main.py
+```
 
-The script will search for the corresponding music based on the provided ID and download the MP3 file to the specified output directory.
+The script searches for all the music on a given album or playlist according to the ID supplied, then searches for the corresponding music on Youtube and downloads the MP3 file into the specified output directory.
 
 ## Additional Notes
 
