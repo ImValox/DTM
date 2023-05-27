@@ -1,6 +1,6 @@
-# Music Downloader
+# Deezer To Mp3
 
-This project is a simple Python script that allows you to download music in MP3 format using its unique identifier. It utilizes the API of an online music service to search for and retrieve the corresponding audio files.
+This project is a simple Python script that allows you to download playlist and album in MP3 format using its unique identifier. It utilizes the API of Deezer to search for and retrieve the corresponding audio files.
 
 ## Prerequisites
 
