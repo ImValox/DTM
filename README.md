@@ -1,11 +1,11 @@
 # Deezer To Mp3
 
-Installation en [Français].
+Installation en [Français](#Français).
 
-Installation in English.
+Installation in [English](#English).
 
 
-# French
+# Français
 
 Ce projet est un simple script Python qui vous permet de télécharger des listes de lecture et des albums au format MP3 en utilisant leur identifiant unique. Il utilise l'API de Deezer pour rechercher et récupérer les fichiers audio correspondants.
 
