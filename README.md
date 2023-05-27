@@ -20,7 +20,7 @@ Avant d'utiliser ce script, assurez-vous d'avoir les éléments suivants :
 pip install -r requirements.txt
 ```
 
-Vous aurez également besoin de FFMPEG.exe dans le dossier DTM, que vous pouvez télécharger depuis [here](https://ffmpeg.org).
+Vous aurez également besoin de FFMPEG.exe dans le dossier DTM, que vous pouvez télécharger depuis [ici](https://ffmpeg.org).
 
 ## Utilisation
 
