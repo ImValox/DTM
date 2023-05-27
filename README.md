@@ -7,7 +7,7 @@ Installation in [English](#English).
 
 # Français
 
-Ce projet est un simple script Python qui vous permet de télécharger des listes de lecture et des albums au format MP3 en utilisant leur identifiant unique. Il utilise l'API de Deezer pour rechercher et récupérer les fichiers audio correspondants.
+Ce projet est un simple script Python qui vous permet de télécharger des playlist et des albums Deezer au format MP3 en utilisant leur ID. Il utilise l'API de Deezer pour rechercher et récupérer les données puis télécharge les musiques correspondante depuis youtube en MP3.
 
 ## Prérequis
 
@@ -20,7 +20,7 @@ Avant d'utiliser ce script, assurez-vous d'avoir les éléments suivants :
 pip install -r requirements.txt
 ```
 
-Vous aurez également besoin de FFMPEG.exe dans le dossier DTM, que vous pouvez télécharger depuis [ici](https://ffmpeg.org).
+Vous aurez également besoin de FFMPEG.exe dans le dossier DTM, que vous pouvez télécharger [ici](https://ffmpeg.org).
 
 ## Utilisation
 
@@ -38,11 +38,9 @@ cd DTM
 python main.py
 ```
 
-Le script recherche toutes les musiques d'un album ou d'une liste de lecture donné(e) en fonction de l'identifiant fourni, puis recherche la musique correspondante sur Youtube et télécharge le fichier MP3 dans le répertoire de sortie spécifié.
-
 ## Notes supplémentaires
 
-- Veillez à disposer d'une connexion internet active pour que le script puisse accéder à l'API du service de musique en ligne.
+- Veillez à disposer d'une connexion internet active pour que le script puisse accéder à l'API de Deezer.
 - Le script ne garantit pas la disponibilité ou la validité de l'identifiant musical fourni. Veillez à utiliser des identifiants musicaux corrects pour obtenir les résultats souhaités.
 - N'oubliez pas de respecter les droits d'auteur et les conditions d'utilisation des fichiers musicaux téléchargés. Ce script est destiné à un usage personnel et ne doit pas être utilisé pour violer les droits d'auteur ou distribuer illégalement des fichiers musicaux.
 
@@ -87,8 +85,6 @@ cd DTM
 ```bash
 python main.py
 ```
-
-The script searches for all the music on a given album or playlist according to the ID supplied, then searches for the corresponding music on Youtube and downloads the MP3 file into the specified output directory.
 
 ## Additional Notes
 
