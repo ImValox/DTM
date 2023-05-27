@@ -1,0 +1,6 @@
+os-sys==2.1.4
+yt-dlp==2023.3.4
+requests==2.26.0
+art==5.4
+colorama==0.4.4
+python-time==0.3.0
