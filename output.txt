@@ -1,0 +1,17 @@
+[youtube:search] Extracting URL: ytsearch1:Murkish Wasted (Nightcore) [Bass Boosted] Official Music
+[download] Downloading playlist: Murkish Wasted (Nightcore) [Bass Boosted] Official Music
+[youtube:search] query "Murkish Wasted (Nightcore) [Bass Boosted] Official Music": Downloading web client config
+[youtube:search] query "Murkish Wasted (Nightcore) [Bass Boosted] Official Music" page 1: Downloading API JSON
+[youtube:search] Playlist Murkish Wasted (Nightcore) [Bass Boosted] Official Music: Downloading 1 items of 1
+[download] Downloading item 1 of 1
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ytRvmeuhqfE
+[youtube] ytRvmeuhqfE: Downloading webpage
+[youtube] ytRvmeuhqfE: Downloading android player API JSON
+[youtube] ytRvmeuhqfE: Downloading player bbe1b497
+[info] ytRvmeuhqfE: Downloading 1 format(s): 251
+[dashsegments] Total fragments: 1
+[download] Destination: E:\truc\Projet\Deezer To MP3\2\Wasted (Nightcore) [Bass Boosted] - Murkish.webm
+[download]   0.0% of ~   2.93MiB at   10.96KiB/s ETA 04:34 (frag 0/1)[download]   0.1% of ~   2.93MiB at   32.53KiB/s ETA 01:32 (frag 0/1)[download]   0.2% of ~   2.93MiB at   75.10KiB/s ETA 00:39 (frag 0/1)[download]   0.5% of ~   2.93MiB at  160.92KiB/s ETA 00:18 (frag 0/1)[download]   1.0% of ~   2.93MiB at  325.57KiB/s ETA 00:09 (frag 0/1)[download]   2.1% of ~   2.93MiB at  628.61KiB/s ETA 00:04 (frag 0/1)[download]   4.2% of ~   2.93MiB at    1.17MiB/s ETA 00:02 (frag 0/1)[download]   8.5% of ~   2.93MiB at    2.18MiB/s ETA 00:01 (frag 0/1)[download]  17.0% of ~   2.93MiB at    3.93MiB/s ETA 00:00 (frag 0/1)[download]  34.0% of ~   2.93MiB at    4.49MiB/s ETA 00:00 (frag 0/1)[download]  68.1% of ~   2.93MiB at    7.98MiB/s ETA 00:00 (frag 0/1)[download] 100.0% of ~   2.93MiB at   10.25MiB/s ETA 00:00 (frag 0/1)[download] 100.0% of ~   2.93MiB at   10.07MiB/s ETA 00:00 (frag 1/1)[download] 100% of    2.93MiB in 00:00:00 at 7.84MiB/s               
+[ExtractAudio] Destination: E:\truc\Projet\Deezer To MP3\2\Wasted (Nightcore) [Bass Boosted] - Murkish.mp3
+Deleting original file E:\truc\Projet\Deezer To MP3\2\Wasted (Nightcore) [Bass Boosted] - Murkish.webm (pass -k to keep)
+[download] Finished downloading playlist: Murkish Wasted (Nightcore) [Bass Boosted] Official Music
