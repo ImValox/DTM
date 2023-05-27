@@ -13,6 +13,8 @@ Before using this script, make sure you have the following:
 pip install -r requirements.txt
 ```
 
+You will also need FFMPEG.exe in the DTM folder, which you can download from [here](https://ffmpeg.org).
+
 ## Usage
 
 1. Clone or download this repository to your machine.
