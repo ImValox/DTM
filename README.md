@@ -29,7 +29,7 @@ Vous aurez également besoin de FFMPEG.exe dans le dossier DTM, que vous pouvez 
 2. Naviguez vers le répertoire du projet :
 
 ```bash
-cd DTM
+cd DTM-main
 ```
 
 3. Exécutez le script Python à l'aide de la commande suivante :
@@ -77,7 +77,7 @@ You will also need FFMPEG.exe in the DTM folder, which you can download from [he
 2. Navigate to the project directory:
 
 ```bash
-cd DTM
+cd DTM-main
 ```
 
 3. Run the Python script using the following command:
